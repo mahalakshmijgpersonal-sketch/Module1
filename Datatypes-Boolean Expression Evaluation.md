@@ -18,17 +18,15 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ```
 
-print("True + True =", True + True)
-print("True + False =", True + False)
-print("False + False =", False + False)
+a = (0 == True)
+b = (False == False)
+c = (True + True)
+d = (False + 9)
 
-print("True * 5 =", True * 5)
-print("False * 5 =", False * 5)
-
-print("True and False =", True and False)
-print("True or False =", True or False)
-print("not True =", not True)
-print("not False =", not False)
+print("a is", a)
+print("b is", b)
+print("c:", c)
+print("d:", d)
 
 ```
 
@@ -37,7 +35,8 @@ print("not False =", not False)
 ## Output
 
 
-<img width="245" height="261" alt="image" src="https://github.com/user-attachments/assets/16bf7382-f290-4cf3-ad33-ad6e288119f7" />
+
+<img width="124" height="100" alt="image" src="https://github.com/user-attachments/assets/228e86f9-e91e-446d-bdcb-82ab5201234c" />
 
 
 ## Result
