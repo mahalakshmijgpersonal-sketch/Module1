@@ -10,6 +10,18 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+```
+s = input("Enter a string: ")
+print(s)
+
+```
+
 ## Output
+<img width="354" height="275" alt="image" src="https://github.com/user-attachments/assets/ee1799ff-6fe0-4f73-8f1a-7df10ed9b17f" />
+
+
 
 ## Result
+
+The program reads a string from the user and prints the same string on the screen.
+
