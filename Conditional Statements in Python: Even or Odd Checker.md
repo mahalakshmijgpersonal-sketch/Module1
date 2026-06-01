@@ -35,3 +35,7 @@ else:
 
 
 ## Result
+
+
+The program checks whether a number is even or odd using an `if...else` statement and displays the result.
+
