@@ -34,9 +34,9 @@ print("d:", d)
 
 ## Output
 
+<img width="872" height="204" alt="image" src="https://github.com/user-attachments/assets/1a86d705-08fb-4bb0-afe8-153848fe5c64" />
 
 
-<img width="124" height="100" alt="image" src="https://github.com/user-attachments/assets/228e86f9-e91e-446d-bdcb-82ab5201234c" />
 
 
 ## Result
