@@ -23,8 +23,8 @@ else:
 
 ## Output
 
+<img width="908" height="167" alt="image" src="https://github.com/user-attachments/assets/6be47c20-ba08-407d-bed7-e6ef0ee7c967" />
 
-<img width="71" height="55" alt="image" src="https://github.com/user-attachments/assets/daf302e7-34ea-48d1-8b33-ae65869d578b" />
 
 
 
