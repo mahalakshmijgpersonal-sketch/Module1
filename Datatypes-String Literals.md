@@ -11,14 +11,13 @@ To write a Python program to read a string from the user and then print it.
 ## 🧾 Program
 
 ```
-s = input("Enter a string: ")
-print(s)
+men_stepped_on_the_moon= input()
+print  (men_stepped_on_the_moon)
 
 ```
 
 ## Output
-<img width="354" height="275" alt="image" src="https://github.com/user-attachments/assets/ee1799ff-6fe0-4f73-8f1a-7df10ed9b17f" />
-
+<img width="987" height="190" alt="image" src="https://github.com/user-attachments/assets/301b63d8-0b27-41c9-889b-1bb010f1354f" />
 
 
 ## Result
