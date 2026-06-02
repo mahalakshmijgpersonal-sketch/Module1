@@ -31,11 +31,8 @@ print("Imaginary Part =", c.imag)
 
 ## Output
 
-Sample input
+<img width="881" height="600" alt="image" src="https://github.com/user-attachments/assets/d42a4244-adf1-456a-b8ab-ab50178b81ac" />
 
-<img width="59" height="88" alt="image" src="https://github.com/user-attachments/assets/f0ee8745-aa2f-4109-b318-206e82c87768" />
-
-<img width="249" height="105" alt="image" src="https://github.com/user-attachments/assets/e38ad4e4-d828-4297-be88-04820d1daf0a" />
 
 
 
